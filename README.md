@@ -2,13 +2,13 @@
 
 Ready to use web template that includes:
 
-####Codeigniter
+#####Codeigniter
 
-####Bootstrap
+#####Bootstrap
 
-####Font awesome
+#####Font awesome
 
-####JQuery
+#####JQuery
 
 
 ###Getting started
@@ -22,7 +22,7 @@ Ready to use web template that includes:
 
 I am guessing you do not want to call your project to be called "web_template" or perhaps you want the project to work from root?
 
-###If this is the case then you need to edit the following files:
+#####If this is the case then you need to edit the following files:
 
 ##.htaccess
 
