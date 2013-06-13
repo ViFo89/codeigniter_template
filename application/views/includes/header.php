@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8"/>
-	<title>web_template</title>
+	<title>Codeigniter template</title>
 	<!--<link rel="shortcut icon" href="<?php echo base_url() ?>favicon.ico" >-->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
