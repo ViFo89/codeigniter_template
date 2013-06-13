@@ -11,7 +11,8 @@
 	
 
 
-	</div><!-- close wrap -->
- 	<div id="push"></div>
+	
+ 		<div id="push"></div>
+ 	</div><!-- close wrap -->
 
 <?php $this->load->view('includes/footer'); ?>
