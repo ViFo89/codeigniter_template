@@ -1,6 +1,6 @@
-##Codeigniter web template
+##Codeigniter template
 
-Ready to use web template that includes:
+Ready to use template that includes:
 
 #####Codeigniter
 
@@ -14,13 +14,13 @@ Ready to use web template that includes:
 ###Getting started
 
 1. Clone, fork or copy the repo to your webserver root
-2. Navigate to #webserveradress/web_template, (http://localhost/web_template if you are on localhost)
+2. Navigate to #webserveradress/codeigniter_template, (http://localhost/codeigniter_template if you are on localhost)
 3. If you see a generic bootstrap startpage then everything is up and running. 
 
 
 ###Start customizing
 
-I am guessing you do not want to call your project to be called "web_template" or perhaps you want the project to work from root?
+I am guessing you do not want to call your project to be called "codeigniter_template" or perhaps you want the project to work from root?
 
 #####If this is the case then you need to edit the following files:
 
