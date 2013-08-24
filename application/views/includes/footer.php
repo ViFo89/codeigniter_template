@@ -1,19 +1,7 @@
 
-  <div id="footer">
+ <div id="footer">
       <div class="container">
-        	<p class="muted credit">
-        		<a href="">Home</a>
-        		&middot;
-        		<a href="">About</a>
-        		&middot;
-				    <a href="">Contact</a>
-			
-				  
-        	</p>	
-        	<div class="muted credit pull-right">
-        		
-        		
-        	</div>
+        <p class="text-muted credit">Example courtesy <a href="http://martinbean.co.uk">Martin Bean</a> and <a href="http://ryanfait.com/sticky-footer/">Ryan Fait</a>.</p>
       </div>
     </div>
 
